@@ -15,7 +15,7 @@ class Header extends React.Component {
 			<Row className="noMar">
 			  <Col md={6} sm={6} xs={12}>
 			  
-				{/*Logo section Start*/}
+				{/*Logo section Start by dheeraj*/}
 				<Logos />
 				{/*Logo section end*/}
 				
